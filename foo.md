@@ -1,1 +1,5 @@
-## foo2
+---
+deploy_arweave: true
+---
+
+## foo33
