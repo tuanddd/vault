@@ -1,1 +1,5 @@
-## bar2
+---
+deploy_arweave: true
+---
+
+## bar3
